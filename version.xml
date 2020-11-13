@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <myCoolApp>
     <currentVersion>
-        <major>9</major>
-        <minor>1</minor>
-        <build>5</build>
+        <major>1</major>
+        <minor>0</minor>
+        <build>0</build>
     </currentVersion>
     <path>https://myCoolApp.zip</path>
 </myCoolApp>
